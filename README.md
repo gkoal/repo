@@ -3,6 +3,7 @@ simple html page whith multiple funtionalitys, practices of funtions
 
 #buttons 
 --console
+
   A simple funtion that shows in the console when is click
 --alert
   A simple funtion that shows an alert when is click
